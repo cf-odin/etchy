@@ -1,0 +1,24 @@
+///////////////////////////////////////////////
+
+ETCH-A-SKETCH
+THE ODIN PROJECT
+
+///////////////////////////////////////////////
+
+DESCRIPTION: Browser replica of Etch-A-Sketch device.
+
+AUTHORS:
+    Conrad A. Flescher
+    github.com/cflescher
+
+PROJECT LOCATION: https://github.com/cf-odin/etchy/
+
+FILE AND FOLDER INDEX
+    index.txt - Index document
+    index.html - Application entry point
+    logging.js - CF Logging utility function
+    main.js - Application logic
+    styles.css
+
+COPYRIGHT
+    Copyright (c) 2020 Conrad A. Flescher. All rights reserved.

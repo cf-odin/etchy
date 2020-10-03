@@ -1,0 +1,35 @@
+/* styles.css / 09/08/2020 / Etch-A-Sketch */
+/* Copyright 2020 Conrad A. Flescher. All rights reserved */
+
+#ESViewportRoot {
+    height: 100vh;
+    width: 100vh;
+    margin: auto;
+    /* justify-content: center; */
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.ESBoxContainer {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+.ESBoxContainerActive {
+    border: 1px solid white;
+}
+
+.ESBox {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 1px solid darkgray;
+}
+
+.ESBoxActive {
+    /* border: 1px solid black; */
+    background-color: gray;
+}
+
